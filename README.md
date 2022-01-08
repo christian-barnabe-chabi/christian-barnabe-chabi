@@ -6,6 +6,19 @@
 - 💬 Ask me about Javascript/TypeScript
 - 📫 How to reach me: christian.barnabe@yahoo.com
 
+```js
+let toBin = (n) => {
+    const b = [];
+    while(n/2 > 0){
+        b.unshift(n%2);
+        n = parseInt(n/2); 
+    }
+    return b.join('');
+}
+
+console.log(toBin(2022)); // outputs '11111100110'
+```
+
 <!--
 **christian-barnabe-chabi/christian-barnabe-chabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
