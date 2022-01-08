@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋, this is Chris.
+- 🔭 I’m currently working on a MySQL - Fastify - Vue,js - Node.js project
+- 🌱 I’m currently learning Data Structures and Design Patterns
+- 👯 I’m looking to collaborate on an Open source project
+- 🤔 I’m looking for help with Algo
+- 💬 Ask me about Javascript/TypeScript
+- 📫 How to reach me: christian.barnabe@yahoo.com
 
 <!--
 **christian-barnabe-chabi/christian-barnabe-chabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=christian-barnabe-chabi)](https://github.com/anuraghazra/github-readme-stats)
