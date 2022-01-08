@@ -7,6 +7,7 @@
 - 📫 How to reach me: christian.barnabe@yahoo.com
 
 ```js
+// Before
 const toBin = (n) => {
     const b = [];
     while(n/2 > 0){
@@ -15,10 +16,10 @@ const toBin = (n) => {
     }
     return b.join('');
 }
-
-const toBin2 = n => n.toString(2);
-
 console.log(toBin(2022)); // outputs '11111100110'
+
+// After
+const toBin2 = n => n.toString(2);
 console.log(toBin2(2022)); // outputs '11111100110'
 ```
 
