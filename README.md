@@ -18,7 +18,7 @@ const toBin = (n) => {
 }
 console.log(toBin(2022)); // outputs '11111100110'
 
-// After
+// NOW
 const toBin2 = n => n.toString(2);
 console.log(toBin2(2022)); // outputs '11111100110'
 ```
