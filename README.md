@@ -1,9 +1,10 @@
 ### Hi there 👋, this is Chris.
-- 🔭 I’m currently working on a MySQL - Fastify - Vue,js - Node.js project
-- 🌱 I’m currently learning Data Structures and Design Patterns
+- 🔭 I’m currently working on a MySQL - Fastify - Vue,js - Node.js, Laravel project
+- 🌱 I’m currently using Data Structures and Design Patterns
+- 🌱 I’m currently learning iOS development
 - 👯 I’m looking to collaborate on an Open source project
 - 🤔 I’m looking for help with Algo
-- 💬 Ask me about Javascript/TypeScript
+- 💬 Ask me about Javascript/TypeScript, PHP
 - 📫 How to reach me: christian.barnabe@yahoo.com
 
 ```js
